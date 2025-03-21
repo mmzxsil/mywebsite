@@ -1,25 +1,25 @@
-/* Основні стилі */
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #C7D9F4; /* Світло-блакитний */
-    color: #304460; /* Темно-синій */
+    background-color: #C7D9F4;
+    color: #304460; 
     margin: 0;
     padding: 0;
 }
 
-/* Заголовок */
+
 header {
-    background-color: #304460; /* Темно-синій */
+    background-color: #304460; 
     color: white;
     padding: 20px;
     font-size: 24px;
 }
 
-/* Основний контент */
+
 main {
     padding: 50px;
-    background-color: #BCA7D2; /* Світло-фіолетовий */
+    background-color: #BCA7D2; 
     border-radius: 10px;
     margin: 30px auto;
     width: 80%;
@@ -27,9 +27,9 @@ main {
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-/* Кнопка */
+
 button {
-    background-color: #B84C7A; /* Темно-рожевий */
+    background-color: #B84C7A; 
     color: white;
     padding: 10px 20px;
     border: none;
@@ -40,12 +40,12 @@ button {
 }
 
 button:hover {
-    background-color: #4C808A; /* Темно-бірюзовий */
+    background-color: #4C808A; 
 }
 
-/* Футер */
+
 footer {
-    background-color: #304460; /* Темно-синій */
+    background-color: #304460; 
     color: white;
     padding: 15px;
     position: relative;
